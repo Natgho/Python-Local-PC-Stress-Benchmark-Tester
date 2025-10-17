@@ -24,6 +24,14 @@ DISCLAIMER
 ----------
 This tool can make your system sluggish or unresponsive if you excessively stress it.
 Use on your own machine, save all work first, and prefer running within a controlled environment.
+
+OWNER
+-----
+Sezer BOZKIR <admin@sezerbozkir.com>
+
+RELEASE DATES
+----------------
+17-10-2025 - initial release
 """
 
 from __future__ import annotations
